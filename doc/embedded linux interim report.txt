@@ -1,0 +1,37 @@
+﻿Cansu Cabuk
+
+
+Project Description
+Using a html interface we want to control a raspberry pi camera to take still photos and rotate the camera with servos attached to it.
+
+
+Work Completed
+* Hosted test web interfaces for video streaming
+* Solder microcontroller to servos
+* Installed libraries onto pi for servo control
+* Began creating schematic for camera holder
+
+
+To-Do
+* Create camera holder
+* Finalize web interface controls
+* Finalize servo design
+
+
+Individual Accomplishments
+Cansu
+1. Servo soldering/controller
+2. Servo compatibility installation
+3. Contributed to the schematics for the camera holder
+
+
+Emil
+1. Tested camera capabilities
+2. Hosted initial test server
+3. Made HTML code for camera livestream
+
+
+Cory
+1. Hosted new server
+2. Made HTML code for camera livestream
+3. Drafted schematics for the camera holder
